@@ -1,6 +1,6 @@
 # hzionn.github.io
 
-- 🔥 Interest: Artificial Intelligence, Machine Learning, Software Engineering, Backend, Bioinformatics
+- 🔥 Interests: Artificial Intelligence, Machine Learning, Software Engineering, Backend, Bioinformatics
 - 😍 Things I love: Coffee, Band, Neovim
 - 🌱 I’m currently learning Backend, DevOps
 
@@ -10,5 +10,6 @@
 
 ## Notes
 
+- [LIPT | Learning in Plain Text](https://lipt-one.vercel.app/)
 - [LearningC](https://hzionn.github.io/LearningC/)
 
