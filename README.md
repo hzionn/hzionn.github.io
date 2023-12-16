@@ -10,6 +10,6 @@
 
 ## Notes
 
-- [LIPT | Learning in Plain Text](https://lipt-one.vercel.app/)
+- [LIPT - Learning in Plain Text](https://lipt-one.vercel.app/)
 - [LearningC](https://hzionn.github.io/LearningC/)
 
