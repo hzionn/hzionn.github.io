@@ -21,10 +21,10 @@ const splashScreen = true // recommended: for best behavior after refresh
 // --- 👋 Greeting Section ---
 const greeting = {
     intro: "Hello 👋, my name is",
-    name: "Maxim Shelepov",
-    message: "I'm a computer science student and an aspiring software engineer. Currently working as a web developer at my university building tools to aid students, educators, and staff.",
-    basedLocation: "Raleigh, NC",
-    resumeLink: "https://docs.google.com/document/d/1Sa_sK3RMusoezzgzxu8LkV16i2Jra2qd/edit?usp=sharing&ouid=113657039181859132688&rtpof=true&sd=true", // recommended: google drive file share link (change to "anyone on the internet can view")
+    name: "Zi-Onn",
+    message: "I'm a master computer science student who studying Bioinformatics.",
+    basedLocation: "Taipei, Taiwan",
+    resumeLink: "", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
         link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
         custom: true // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
@@ -33,26 +33,25 @@ const greeting = {
 }
 
 const socialMediaLinks = {
-    github: "https://github.com/feifyKike",
-    linkedin: "https://www.linkedin.com/in/maxim-shelepov1",
-    medium: "https://medium.com/@mimaishel",
+    github: "https://github.com/hzionn",
+    linkedin: "https://www.linkedin.com/in/hzionn",
+    medium: "https://medium.com/@zionn",
     stackoverflow: "",
-    xtwitter: "https://twitter.com/mimaishel"
+    xtwitter: ""
 } // to add any additional social media links check out the README.md or src/icons.js file
 
 // --- 😎 About Section ---
 const about = {
     autobiography: [
-        "My name is Maxim Shelepov and I'm a computer science student at North Carolina State University. I have a passion for coding in languages such as Python, Java, PHP, & Swift. Work in web development and have experience with Django and Laravel frameworks.",
+        "My name is Zi-Onn and I'm a master computer science student at National Cheng Chi University. I have a passion for coding in languages such as Python, Java, PHP, & Swift.",
         "Responsible, organized, problem solver, and independent thinker. Work well in a team and a quick learner. Programming for 3+ years and have 4 years of experience in advanced mathematics such as calculus, statistics, and discrete mathematics. Currently working as a web development intern for my university."
     ], // Separated items are paragraphs
     techStack: [
-        "PHP",
         "Python",
         "JavaScript",
         "Vue.js",
-        "MySQL",
-        "Swift"
+        "sqlite",
+        "Django"
     ],
     photo1Link: "images/portrait1.jpeg",
     photo2Link: "images/portrait2.jpeg",
