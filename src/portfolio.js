@@ -61,44 +61,22 @@ const about = {
 // --- 🛡️ Experience Section ---
 const experiences = [
     {
-        position: "Web Dev Intern",
+        position: "Python Tutor",
         company: {
-            name: "WolfTech",
-            link: "https://tools.wolftech.ncsu.edu/support/index.php/WolfTech_Information_Technology"
+            name: "CodingApe",
+            link: "https://codingapeschool.com/"
         },
-        duration: "Aug 2022 - Present",
-        bulletPoints: [
-            "Resolved issues and developed new tools within several university web applications (email automation, research discovery, educational resources, scheduling tools, and text-generative AI news sharing).",
-            "Achieved 100+ github code contributions as an intern on the team.",
-            "Currently rebuilding and modernizing the university digital sign manager and system."
-        ],
-        hashtags: [
-            "Laravel",
-            "PHP",
-            "MySQL",
-            "JS",
-            "Vue.js",
-            "HTML",
-            "Tailwind"
-        ]
-    },
-    {
-        position: "Math Tutor",
-        company: {
-            name: "Mathnasium",
-            link: "https://www.mathnasium.com"
-        },
-        duration: "Jan 2022 - Aug 2022",
+        duration: "Aug 2020 - present",
         bulletPoints: [
             "Taught math to students elementary through high school covering topics from basic algebra to college-level calculus.",
             "Directed the trajectory of the student's learning plan and math topic evaluation to facilitate success in their school math class.",
             "Requested by many students and parents for routine weekly tutoring sessions in a system with a standard random weekly rotation."
         ],
         hashtags: [
-            "Calc 1-2",
-            "Algebra 1-3",
-            "Discrete Math",
-            "Statistics"
+            "Python",
+            "Problem Solving",
+            "Pygame",
+            "Programming"
         ]
     }
 ]
