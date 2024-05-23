@@ -53,9 +53,9 @@ const about = {
         "sqlite",
         "Django"
     ],
-    photo1Link: "images/portrait1.jpeg",
-    photo2Link: "images/portrait2.jpeg",
-    photo3Link: "images/portrait3.jpeg"
+    photo1Link: "images/portrait1.png",
+    photo2Link: "images/portrait2.jpg",
+    photo3Link: "images/portrait3.jpg"
 }
 
 // --- 🛡️ Experience Section ---
