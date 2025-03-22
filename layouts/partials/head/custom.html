@@ -1,0 +1,34 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+    :root {
+        --article-font-family: 'JetBrains Mono', monospace;
+        --base-font-family: 'JetBrains Mono', monospace;
+        --code-font-family: 'JetBrains Mono', monospace;
+
+        /* control font size */
+        --article-font-size: 18px;
+    }
+
+    body {
+        font-family: 'JetBrains Mono', monospace;
+    }
+
+    code {
+        font-family: 'JetBrains Mono', monospace !important;
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
