@@ -5,6 +5,6 @@ description: A little bit about me.
 weight: 1
 ---
 
-❤️‍🔥 Interest: Artificial Intelligence, Software Engineering, Backend, Bioinformatics, Data Science
+❤️‍🔥 Interest: Software Engineering, Backend, LLMs, Bioinformatics, Data Science
 
 😍 Things I love: Coffee, Band, Neovim
